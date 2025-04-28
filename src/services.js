@@ -16,7 +16,6 @@ const ServicesGrid = () => {
         width: '80%',
         margin: '0 auto'
       }}>
-        {/* Service Boxes */}
         <div style={{
           backgroundColor: '#d0f5cf',
           padding: '20px',
@@ -92,8 +91,7 @@ const ServicesGrid = () => {
           <p style={{ fontSize: '14px', color: '#666' }}>Helping FPOs in empowering farmers to develop new market opportunities and strengthen their position in the marketplace.</p>
         </div>
 
-        {/* Add remaining 7 boxes following the same pattern */}
-        {/* Alternate between service-box1 and service-box styles */}
+        
         
       </div>
     </div>
