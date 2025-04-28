@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom"; // Import Link from react-router-dom
+import { Link } from "react-router-dom"; 
 
 const LandingPage = () => {
   return (
@@ -39,7 +39,7 @@ const LandingPage = () => {
           Segment your customers to improve marketing strategies
         </p>
 
-        {/* Use React Router Link here */}
+        
         <Link to="/segmentation-page" style={{
           backgroundColor: "#2563eb",
           color: "white",
